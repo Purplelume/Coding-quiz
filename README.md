@@ -13,4 +13,4 @@ This project is a simple Coding Quiz about CSS, HTML and Javascript.
 ![screenshot of index.html](./assets/images/Cattura.PNG)
 
 ### Link of deployed application
-[Link to the deployed website]()
+[Link to the deployed website](https://purplelume.github.io/Coding-quiz/)
