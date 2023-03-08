@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>HTML/CSS/JS Code quiz</title>
+        <link rel="stylesheet" href="./assets/css/reset.css">
+        <link rel="stylesheet" href="./assets/css/style.css">
+    </head>
+
+    <body>
+        <!-- Initial Page -->
+        <section id="initial-page">
+            <h1>HTML, CSS and JS Code Challenge</h1>
+            <p>Let's test your skills with this Timed Code Challenge!. Be aware! Every wrong answer will make a time deduction</p>
+            <button id="start-button">Let's Start!</button>
+        </section>
+
+        <!-- Questions Page -->
+        <section id="question" class="hide">
+            <div class="grid">
+                <!-- Timer -->
+                <h3 id="timer">Timer: 60</h3>
+                <h2>Question #</h2>
+            </div>
+            <p>Question text</p>
+            <ul>
+                <li>A) <span></span></li>
+                <li>B) <span></span></li>
+                <li>C) <span></span></li>
+                <li>D) <span></span></li>
+            </ul>
+            <h3 id="correct"></h3>
+        </section>
+
+        <!-- Times up! -->
+        <section id="times-up" class="hide">
+            <h2>Time's up!</h2>
+        </section>
+        
+        <!-- Finishing Page -->
+        <section id="finish" class="hide">
+            <h2>Finished!</h2>
+            <p>Your final score:</p>
+            <uL>
+
+            </uL>
+            <p>Enter your initials to save your score for posterity.</p>
+            <form>
+                <label for="initials">Your Initials</label>
+                <input type="text" minlength="2" maxlength="3" name="initials" required>
+                <button type="submit">Save Score</button>
+            </form>
+        </section>
+
+        <!-- Score page -->
+        <section id="scores" class="hide">
+            <h2>
+                High Scores
+            </h2>
+            <!-- List to host scores -->
+            <ul>
+
+            </ul>
+            <div class="grid">
+                <button id="play-again">Go Back</button>
+                <button id="clear-scores">Clear High Scores</button>
+            </div>
+        </section>
+
+        <script src="./assets/js/script.js"></script>
+    </body>
+</html>
