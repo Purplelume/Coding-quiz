@@ -1,16 +1,29 @@
 # HTML/CSS/JS Coding Quiz
 
-## Description
+## Overview
 
-This project is a simple Coding Quiz about CSS, HTML and Javascript.
+The HTML/CSS/JS Coding Quiz is a straightforward yet engaging project that tests your knowledge of CSS, HTML, and JavaScript. This quiz is designed to help you sharpen your coding skills while having fun.
 
-### Actions done
-* A descriptive title was added
-* CSS was reorganized to follow a logical structure
-* Creating functions and variables in JS to make the Coding Quiz work
-* Trying to use a single html and js file, instead of creating multiples
+### Key Improvements Made
 
-![screenshot of index.html](./assets/images/Cattura.PNG)
+Here are the key enhancements made to this project:
 
-### Link of deployed application
-[Link to the deployed website](https://purplelume.github.io/Coding-quiz/)
+1. **Descriptive Title**: A descriptive title has been added to clearly convey subject of the quiz.
+
+2. **CSS Refactoring**: The CSS has been reorganized to adhere to a logical and structured format.
+
+3. **JavaScript Functionality**: The JavaScript code has been skillfully crafted to create functions and variables that power the Coding Quiz, making it fully functional and interactive.
+
+4. **Streamlined File Structure**: Efforts have been made to streamline the project by consolidating it into a single HTML and JavaScript file, simplifying the project's organization.
+
+### Screenshot
+
+![Screenshot of the Coding Quiz](./assets/images/Cattura.PNG)
+
+### Try it out!
+
+To take the Coding Quiz and test your HTML, CSS, and JavaScript knowledge, visit the deployed website:
+
+[**Coding Quiz Website**](https://purplelume.github.io/Coding-quiz/)
+
+Feel free to challenge yourself and see how well you know these essential web development technologies!
